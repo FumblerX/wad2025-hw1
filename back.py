@@ -1,11 +1,14 @@
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, url_for
 import random
 
 app = Flask(__name__, static_url_path='/static', static_folder='static', template_folder='template')
 
-
-@app.route("/")
+@app.route('/')
 def root():
+    return render_template("12.html", code=302)
+
+@app.route("/profile")
+def profile():
     return render_template("123.html", random_number=random.random())
 
 
