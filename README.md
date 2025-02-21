@@ -11,12 +11,10 @@ When you run the back.py file and enter localhost:5000 in the browser, you will 
   <ol>-static
    <ol>-meme_picture.jpg</ol>
     <ol>-profile_style.css</ol>
-    <ol>-redirection_style.css</ol>
-   </ol>
+    <ol>-redirection_style.css</ol></ol>
   <ol>-template</h4>
     <ol>-profile.html</ol>
-    <ol>-redirection_page.html</ol>
-  </ol>
+    <ol>-redirection_page.html</ol></ol>
   <ol>-back.py</ol>
   <ol>-README.md</ol>
 <strong>If you want everything to work, then don't change the file paths.</strong>
