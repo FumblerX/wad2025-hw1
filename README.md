@@ -8,10 +8,11 @@ When you run the back.py file and enter localhost:5000 in the browser, you will 
 
 <h2>Repository structure</h2>
 <h4>-main</h4>
-  <h4>-static</h4>
-   <h4>-meme_picture.jpg</h4>
-    <h4>-profile_style.css</h4>
-    <h4>-redirection_style.css</h4>
+  <ol>-static</h4>
+   <ol>-meme_picture.jpg
+    <ol>-profile_style.css</ol>
+    <ol>-redirection_style.css</ol>
+   </ol>
   <h4>-template</h4>
     <h4>-profile.html</h4>
     <h4>-redirection_page.html</h4>
