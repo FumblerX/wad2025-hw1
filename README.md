@@ -18,3 +18,13 @@ When you run the back.py file and enter localhost:5000 in the browser, you will 
   <ol>-back.py</ol>
   <ol>-README.md</ol>
 <strong>If you want everything to work, then don't change the file paths.</strong>
+<h2>Used tools and languages</h2>
+**Languages**
+- **HTML5**
+- **CSS3**
+- **Python** 
+- **Flask**
+
+**Tools**:
+- **Visual Studio Code**
+- **Microsoft Edge**
