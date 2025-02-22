@@ -20,8 +20,8 @@ When you run the back.py file and enter localhost:5000 in the browser, you will 
 <strong>If you want everything to work, then don't change the file paths.</strong>
 <h2>Used tools and languages</h2>
 <strong>Languages:</strong>
- <ol>- **HTML5**</ol>
- <ol>- **CSS3**</ol>
+ <ol>**- HTML5**</ol>
+ <ol>**- CSS3**</ol>
  <ol>- **Python** </ol>
  <ol>- **Flask**</ol>
 <strong>Tools:</strong>
